@@ -73,15 +73,6 @@ Execute os testes:
 npm test
 ```
 
-## Resultado dos testes
-
-Execução validada em 29/10/2026:
-
-```text
-Test Suites: 1 passed, 1 total
-Tests:       43 passed, 43 total
-```
-
 ## Cobertura de código
 
 O comando `npm test` executa os testes e gera automaticamente o relatório em [`coverage/index.html`](coverage/index.html).
@@ -109,11 +100,3 @@ TDD/
 ├── package.json        # Scripts e dependências
 └── README.md
 ```
-
-## Checklist de entrega
-
-- [ ] Publicar o projeto em um repositório Git;
-- [ ] Conferir se o repositório está acessível;
-- [ ] Enviar a URL do repositório no Moodle;
-- [ ] Manter este README com os comandos de build, testes e cobertura;
-- [ ] Anexar ou apresentar o relatório de cobertura gerado em `coverage/index.html`.
